@@ -12,9 +12,8 @@ Se realizo la Creacion del archivo UML para la visualizacion completa de los dat
 
 <img width="422" alt="Uml" src="https://github.com/user-attachments/assets/3c53bce9-8514-4486-a945-147f16fdd81c" />
 
-
-
-La cual Coche que hereda las clases de Vehiculos.
+Vehiculo define los atributos y métodos comunes para todos los vehículos (como marca, modelo, y los métodos arrancar y frenar).
+Coche hereda esas características de Vehiculo, pero añade características propias (como numero_puertas y tipo_combustible) y un nuevo comportamiento (abrir_maletero).
 
 # Segunda Etapa
 
