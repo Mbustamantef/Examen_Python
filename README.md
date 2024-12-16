@@ -6,6 +6,7 @@ El examen del Ing.Yan Bajac fue realizado por Matias Bustamante en la Universida
 
 Se realizo la Creacion del archivo UML para la visualizacion completa de los datos que requeria el examen,se creo dos clases las cuales son:
 
+<img width="422" alt="Uml" src="https://github.com/user-attachments/assets/3c53bce9-8514-4486-a945-147f16fdd81c" />
 
 
 <ul>
@@ -42,7 +43,7 @@ class Coche(Vehiculo):
 
 # Cuarta Etapa visualizacion de los resultados
 
-<img width="415" alt="Screenshot 2024-12-16 at 7 26 20 PM" src="https://github.com/user-attachments/assets/50ace7cf-02ce-4197-bf21-020a5c130428" />
+<img width="415" alt="Resultados" src="https://github.com/user-attachments/assets/50ace7cf-02ce-4197-bf21-020a5c130428" />
 
 
 
