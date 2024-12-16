@@ -1,10 +1,12 @@
 # Examen de Programacion 2
 
-El examen fue realizado en la Universidad Comunera UCOM, el dia Lunes 16 de diciembre de 2024.
+El examen del Ing.Yan Bajac fue realizado por Matias Bustamante en la Universidad Comunera UCOM el dia 16 de diciembre a las 18:30.
 
 # Primera Etapa
 
 Se realizo la Creacion del archivo UML para la visualizacion completa de los datos que requeria el examen,se creo dos clases las cuales son:
+
+
 
 <ul>
 <li> Coche</li>
