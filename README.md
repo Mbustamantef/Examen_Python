@@ -13,7 +13,7 @@ Se realizo la Creacion del archivo UML para la visualizacion completa de los dat
 <li> Coche</li>
 <li> Vehiculo</li>
 </ul>
-las cual Coche que hereda las clases de Vehiculos.
+La cual Coche que hereda las clases de Vehiculos.
 
 # Segunda Etapa
 
