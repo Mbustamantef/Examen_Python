@@ -40,5 +40,8 @@ class Coche(Vehiculo):
 
 # Cuarta Etapa visualizacion de los resultados
 
+<img width="415" alt="Screenshot 2024-12-16 at 7 26 20 PM" src="https://github.com/user-attachments/assets/50ace7cf-02ce-4197-bf21-020a5c130428" />
+
+
 
 
