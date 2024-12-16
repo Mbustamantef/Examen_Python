@@ -1,6 +1,6 @@
 # Examen de Programacion 2
 
-El examen fue realizado en la Universidad Comunera UCOM, el dia Lunes 16 de diciembre de 2024
+El examen fue realizado en la Universidad Comunera UCOM, el dia Lunes 16 de diciembre de 2024.
 
 # Primera Etapa
 
@@ -10,7 +10,7 @@ Se realizo la Creacion del archivo UML para la visualizacion completa de los dat
 <li> Coche</li>
 <li> Vehiculo</li>
 </ul>
-las cual Coche que hereda las clases de Vehiculos
+las cual Coche que hereda las clases de Vehiculos.
 
 # Segunda Etapa
 
