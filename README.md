@@ -28,18 +28,18 @@ Mediante la creacion de clases , abarque un modelo estandar que contenia lo sigu
 
 # Tercera Etapa
 Tras la creacion del modelo del cual vamos a abarcar,empece a  crear las clases y las funciones como:
- class Vehiculo:
-  def __init__(auto, marca, modelo, anho, color):
-        auto.marca = marca
-        auto.modelo = modelo
-        auto.anho = anho
-        auto.color = color
+ class Vehiculo: <br>
+  def __init__(auto, marca, modelo, anho, color):<br>
+        auto.marca = marca<br>
+        auto.modelo = modelo<br>
+        auto.anho = anho<br>
+        auto.color = color<br>
 Esta clase hereda las clases de Vehiculo
-class Coche(Vehiculo):
-  def __init__(auto, marca, modelo, anho, color, numero_puertas, tipo_combustible):
-  super().__init__(marca, modelo, anho, color)
-  auto.numero_puertas = numero_puertas
-  auto.tipo_combustible = tipo_combustible
+class Coche(Vehiculo):<br>
+  def __init__(auto, marca, modelo, anho, color, numero_puertas, tipo_combustible):<br>
+  super().__init__(marca, modelo, anho, color)<br>
+  auto.numero_puertas = numero_puertas<br>
+  auto.tipo_combustible = tipo_combustible<br>
 
 # Cuarta Etapa visualizacion de los resultados
 
